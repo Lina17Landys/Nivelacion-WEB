@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    background-color: rgb(227, 137, 255);
+    border: none;
+    height: 50px;
+    width: 130px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+}
+
+#palabra-contenedor{
+    background-color: rgb(126, 117, 133);
+}
